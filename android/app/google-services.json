@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129383903778",
+    "project_id": "datame-ea4de",
+    "storage_bucket": "datame-ea4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129383903778:android:55add920c9fe5f535d507b",
+        "android_client_info": {
+          "package_name": "com.example.data_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129383903778-je0dt1q453tchdvkab6n6l53878ttj6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChd1uF-S2TVOh8s0fHVrd81Nr-V-YH14g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129383903778-je0dt1q453tchdvkab6n6l53878ttj6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
